@@ -16,6 +16,7 @@ chaos:
       level: 5
       latencyRangeStart: 1000
       latencyRangeEnd: 7000
+      exceptionsActive: true
     watcher:
       component: false
       controller: false
